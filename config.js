@@ -47,7 +47,7 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '𝙰𝚁𝙾𝚂𝙷𝙰 -𝙼𝙳'
+global.botname = '𝙰𝚁𝙾𝚂𝙷𝙰-𝙼𝙳'
 global.premium = 'true'
 global.packname = 'αяσѕнα gιмнαη' 
 global.author = '@Asliguru' 
